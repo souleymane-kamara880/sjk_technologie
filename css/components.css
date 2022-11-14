@@ -1017,6 +1017,12 @@ ul.slick-dots li.slick-active {
     font-size: 40px;
     color: #a0a0a0;
 }
+.box-media .box-icon .icons .fa-solid{
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+    color: #a0a0a0;
+}
 
 .box-media .box-icon .icon-1:before,
 .box-media .box-icon .icon-1:after {
